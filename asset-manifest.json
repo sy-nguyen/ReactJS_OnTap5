@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactJS_OnTap5/static/css/main.d5289b2f.css",
+    "main.js": "/ReactJS_OnTap5/static/js/main.dc994428.js",
+    "index.html": "/ReactJS_OnTap5/index.html",
+    "main.d5289b2f.css.map": "/ReactJS_OnTap5/static/css/main.d5289b2f.css.map",
+    "main.dc994428.js.map": "/ReactJS_OnTap5/static/js/main.dc994428.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5289b2f.css",
+    "static/js/main.dc994428.js"
+  ]
+}
